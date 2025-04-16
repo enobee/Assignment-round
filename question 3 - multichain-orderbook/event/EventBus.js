@@ -1,5 +1,5 @@
 /**
- * EventBus Class
+ * EventBus Class Design
  *
  * Implements a publish-subscribe pattern for system-wide event distribution.
  * Allows different components to communicate without direct dependencies.

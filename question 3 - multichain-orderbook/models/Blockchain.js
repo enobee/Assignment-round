@@ -1,5 +1,3 @@
-// FILE: models/Blockchain.js
-
 /**
  * Blockchain Class Design
  *
