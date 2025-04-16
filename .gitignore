@@ -1,0 +1,5 @@
+# Ignore all .env files recursively
+**/.env
+
+# Node.js dependencies (if used)
+**/node_modules
